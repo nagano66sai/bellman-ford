@@ -1,4 +1,4 @@
-
+rem  decimal  basic   download   from   http://hp.vector.co.jp/authors/VA008683/setup.htm
 LET n=7
 DIM  dist(n), node$(n),path$(n)
 MAT READ node$
@@ -80,7 +80,7 @@ REM-----------------------------------
 PRINT  "-------------------------------------------------------"
 
 FOR   x=1  TO n
-   PRINT  "Å’Z‹——£="; dist(x); ", Œo˜H=";path$(x)
+   PRINT  "ÂÃ…â€™Zâ€¹â€”â€”Â£="; dist(x); ", Å’oËœH=";path$(x)
 NEXT x
 
 END
