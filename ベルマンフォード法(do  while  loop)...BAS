@@ -1,4 +1,5 @@
 rem  decimal  basic   download   from   http://hp.vector.co.jp/authors/VA008683/setup.htm
+rem  decimal  basic   download   from   https://decimalbasic.ninja-web.net/EnglishInstallerWin.htm
 LET n=7
 DIM  dist(n), node$(n),path$(n)
 MAT READ node$
