@@ -1,4 +1,4 @@
-rem  using  decimal  basic
+rem  using  decimal  basic(japanese)
 rem  download   from  http://hp.vector.co.jp/authors/VA008683/setup.htm
 DIM  dist(8), node$(8),path$(8)
 MAT READ node$
