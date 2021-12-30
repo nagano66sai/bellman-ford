@@ -1,5 +1,6 @@
 rem  using  decimal  basic(japanese)
 rem  download   from  http://hp.vector.co.jp/authors/VA008683/setup.htm
+rem  english version download  from  https://decimalbasic.ninja-web.net/EnglishInstallerWin.htm
 DIM  dist(8), node$(8),path$(8)
 MAT READ node$
 DATA  A,B,C,D,E,F,G,H
